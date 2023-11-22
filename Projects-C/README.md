@@ -31,7 +31,7 @@ This is a simple console-based Student Grade Tracker written in C. The program a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/fooysaal/student-grade-tracker.git
+    git clone https://github.com/fooysaal/NoviceInnoLab/Projects-C/student-grade-tracker.git
     ```
 
 2. Compile the program:
