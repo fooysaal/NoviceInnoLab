@@ -46,7 +46,7 @@ Managing your personal finances is crucial for financial stability. This applica
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PersonalFinanceManager.git
+   git clone https://github.com/fooysaal/NoviceInnoLab/tree/main/Projects-C/Finance_manager
    ```
 ## Usage
 
