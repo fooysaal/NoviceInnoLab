@@ -20,7 +20,7 @@ This is a simple console-based Ticket Reservation System implemented in Java. Th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ticket-reservation-system.git
+    git clone https://github.com/fooysaal/NoviceInnoLab/tree/main/java_projects/Ticket%20Reservation%20System
     ```
 
 2. Compile the Java files:
