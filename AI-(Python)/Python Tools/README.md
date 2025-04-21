@@ -33,7 +33,7 @@ To install the required libraries, run:
 
 ```bash
 pip install numpy pandas matplotlib
-
+```
 
 ### Explanation:
 - **Task Overview**: Each task you listed is included with a brief description to help the user understand what each script does.
